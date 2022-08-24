@@ -8,10 +8,10 @@
 ## :iphone: Contact Me 
 
 <a href="https://www.facebook.com/mrlimfo/">
-  <img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
+  <img align="left" alt="Facebook" height="50" width="50" src="https://img.icons8.com/doodle/344/facebook-new.png" />
 </a>
 <a href="https://www.instagram.com/__htn.0605__/">
-  <img align="left" alt="Instagtam" width="25px" src="https://img.icons8.com/officel/344/instagram-new.png" />
+  <img align="left" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/officel/344/instagram-new.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
