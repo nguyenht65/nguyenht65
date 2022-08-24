@@ -29,7 +29,6 @@
 
 ## 📈 My Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact&show_icons=true&langs_count=6&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=apprentice" alt="nguyenht65" />
 </div>
 
