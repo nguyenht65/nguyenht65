@@ -1,4 +1,5 @@
-# Hi, I'm Hoang Trung Nguyen <a href="https://www.facebook.com/mrlimfo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
+# <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Hoang Trung Nguyen</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 - :star: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
