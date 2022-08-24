@@ -18,10 +18,10 @@
 
 ## :computer: Programming 
 <div align="center">
-  <img src="https://img.icons8.com/doodle/344/swift.png" alt="Swift logo" />
-  <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png"  alt="Java logo" />
-  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" alt="C Sharp logo" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" height="40" width="52" alt="SQL logo" />
+  <img src="https://img.icons8.com/doodle/344/swift.png" height="70" width="70" alt="Swift logo" />
+  <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="70" width="70" alt="Java logo" />
+  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" height="70" width="70" alt="C Sharp logo" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" height="70" width="70" alt="SQL logo" />
 </div>
 
 ## 📈 My Github Stats
