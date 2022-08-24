@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://www.facebook.com/mrlimfo/" target="_blank">Hoang Trung Nguyen</a> <img src="https://github.com/nguyenht65/nguyenht65/blob/master/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.facebook.com/mrlimfo/" target="_blank">Hoang Trung Nguyen</a> 
+  <img src="https://github.com/nguyenht65/nguyenht65/blob/master/images/Hi.gif" height="32" />
+</h1>
 
 - :house: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
