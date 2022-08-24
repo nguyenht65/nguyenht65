@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/mrlimfo/" target="_blank">Hoang Trung Nguyen</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-- :vietnam: A Vietnamese developer
+- :house: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
 - 🌱 I’m currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
-
+#
 <!--
 **nguyenht65/nguyenht65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Contact me :iphone:
+Contact me :iphone:
 
 <a href="https://www.facebook.com/mrlimfo/">
   <img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
-
-## 📈 my github stats
+##
+📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
