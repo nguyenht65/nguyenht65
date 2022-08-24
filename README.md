@@ -17,8 +17,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
 
 ## 📈 My Github Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact&show_icons=true&theme=gotham" />
+</div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact&show_icons=true&theme=gotham" alt="nguyenht65" />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
