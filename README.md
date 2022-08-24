@@ -7,15 +7,16 @@
 
 ## :iphone: Contact Me 
 <div align="center">
-<a href="https://www.facebook.com/mrlimfo/">
-  <img align="center" alt="Facebook" height="40" width="40" src="https://img.icons8.com/doodle/344/facebook-new.png" />
-</a>
-<a href="https://www.instagram.com/__htn.0605__/">
-  <img align="center" alt="Instagtam" height="40" width="40 src="https://img.icons8.com/officel/344/instagram-new.png" />
-</a>
+  ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
 
- <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
+  <br/>
+  
+  <a href="https://www.facebook.com/mrlimfo/">
+  <img align="center" alt="Facebook" height="40" width="40" src="https://img.icons8.com/doodle/344/facebook-new.png" />
+  </a>
+  <a href="https://www.instagram.com/__htn.0605__/">
+  <img align="center" alt="Instagtam" height="40" width="40" src="https://img.icons8.com/officel/344/instagram-new.png" />
+  </a>
 
 </div>
 
