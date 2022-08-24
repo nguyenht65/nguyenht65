@@ -7,7 +7,7 @@
 - 🌱 I am currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
 
-## :iphone: Contact Me 
+## :sassy_man: My Profiles
 <div align="center">
   
   ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
