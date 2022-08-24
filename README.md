@@ -19,3 +19,4 @@
 ## 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact)]
