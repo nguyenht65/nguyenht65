@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.facebook.com/mrlimfo/">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
+</a>
