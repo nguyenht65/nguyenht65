@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## Welcome to my profile
 <!--
 **nguyenht65/nguyenht65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.facebook.com/mrlimfo/">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
+  <img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
+</a>
+<a href="https://www.instagram.com/__htn.0605__/">
+  <img align="left" alt="Instagtam" width="30px" src="[https://img.icons8.com/doodle/344/facebook-new.png](https://img.icons8.com/officel/344/instagram-new.png)" />
 </a>
