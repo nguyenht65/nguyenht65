@@ -2,7 +2,7 @@
 
 - :house: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
-- 🌱 I’m currently learning Software Engineering at FPT University
+- 🌱 I am currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
 
 ## :iphone: Contact Me 
