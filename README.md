@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/mrlimfo/" target="_blank">Hoang Trung Nguyen</a> 
-  <img src="https://github.com/nguyenht65/nguyenht65/blob/master/images/Hi.gif" height="40" />
+  <img src="https://github.com/nguyenht65/nguyenht65/blob/master/images/Hi.gif" height="35" />
 </h1>
 
 - :house: A Vietnamese developer
