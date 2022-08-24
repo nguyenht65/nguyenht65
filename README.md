@@ -9,8 +9,6 @@
 <div align="center">
   
   ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
-
-  <br/>
   
   <a href="https://www.facebook.com/mrlimfo/">
   <img align="center" alt="Facebook" height="40" width="40" src="https://img.icons8.com/doodle/344/facebook-new.png" />
