@@ -16,9 +16,17 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
 
+## :computer: Programing 
+<div align="center">
+  <img src="https://img.icons8.com/doodle/344/swift.png" height="40" width="52" alt="Swift logo" />
+  <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="40" width="52" alt="Java logo" />
+  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" height="40" width="52" alt="C Sharp logo" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" height="40" width="52" alt="SQL logo" />
+</div>
+
 ## 📈 My Github Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact&show_icons=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenht65&layout=compact&show_icons=true&langs_count=6&theme=gotham" />
 </div>
 
