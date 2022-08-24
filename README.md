@@ -1,7 +1,8 @@
 # Hi I'm Hoang Trung Nguyen <a href="https://www.facebook.com/mrlimfo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
 
-- :leaves: I was a student at Chuyen Ha Long High School
-- 🌱 I’m currently learning at FPT University
+- :star: A Vietnamese developer
+- :leaves: I was a student at Ha Long High School for Gifted Students
+- 🌱 I’m currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
 
 <!--
