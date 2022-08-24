@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Hoang Trung Nguyen</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-- :star: A Vietnamese developer
+- :vietnam: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
 - 🌱 I’m currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
