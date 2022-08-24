@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="70" width="70" alt="Java logo" />
   <img src="https://img.icons8.com/color/344/c-sharp-logo.png" height="70" width="70" alt="C Sharp logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" height="70" width="70" alt="SQL logo" />
+   <img src="https://www.mobintouch.com/wp-content/uploads/2018/12/RxSwift.png" height="70" width="70" alt="RxSwift logo" />
 </div>
 
 ## 📈 My Github Stats
