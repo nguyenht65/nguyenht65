@@ -1,4 +1,7 @@
 # Hi I'm Hoàng Trung Nguyên <a href="https://www.facebook.com/mrlimfo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
+
+Welcome to my profile!
+I'm a mobile developer and currently learning at FPT University! :school_satchel:
 <!--
 **nguyenht65/nguyenht65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
