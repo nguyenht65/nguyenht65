@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Software Engineering at FPT University
 - :iphone: I will be a mobile developer soon
 
-# :iphone: Contact Me 
+## :iphone: Contact Me 
 
 <a href="https://www.facebook.com/mrlimfo/">
   <img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
@@ -16,6 +16,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
 
-# 📈 My Github Stats
+## 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
