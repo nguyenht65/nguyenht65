@@ -1,4 +1,4 @@
-# Hi I'm Hoang Trung Nguyen <a href="https://www.facebook.com/mrlimfo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
+# Hi, I'm Hoang Trung Nguyen <a href="https://www.facebook.com/mrlimfo/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
 
 - :star: A Vietnamese developer
 - :leaves: I was a student at Ha Long High School for Gifted Students
@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
 
-### I a cv
+### 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=gotham" alt="nguyenht65" />
