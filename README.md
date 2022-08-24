@@ -1,5 +1,4 @@
-### Hi there 👋
-## Welcome to my profile
+## Welcome To My Profile <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <!--
 **nguyenht65/nguyenht65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Contact me :iphone:
 
 <a href="https://www.facebook.com/mrlimfo/">
   <img align="left" alt="Facebook" width="30px" src="https://img.icons8.com/doodle/344/facebook-new.png" />
