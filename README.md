@@ -3,9 +3,9 @@
 </h1>
 
 - :house: A Vietnamese developer
-- :leaves: I was a student at Ha Long High School for Gifted Students
-- 🌱 I am currently learning Software Engineering at FPT University
-- :iphone: I will be a mobile developer soon
+- :leaves: Was a student at Ha Long High School for Gifted Students
+- 🌱 Currently learning Software Engineering at FPT University
+- :iphone: Will be a mobile developer soon
 
 ## :sassy_man: My Profiles
 <div align="center">
