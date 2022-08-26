@@ -7,7 +7,7 @@
 - 🌱 Currently learning Software Engineering at FPT University
 - :iphone: Will be a mobile developer soon
 
-## :sassy_man: Contact Me
+## :sassy_man: My Profiles
 <div align="center">
   
   ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
@@ -24,7 +24,7 @@
   
 </div>
 
-## :computer: Programming Skills 
+## :computer: My Programming Skills 
 <div align="center">
   <img src="https://img.icons8.com/doodle/344/swift.png" height="70" width="70" alt="Swift logo" />
   <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="70" width="70" alt="Java logo" />
@@ -33,7 +33,7 @@
    <img src="https://www.mobintouch.com/wp-content/uploads/2018/12/RxSwift.png" height="70" width="70" alt="RxSwift logo" />
 </div>
 
-## 📈 Github Stats
+## 📈 My Github Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=apprentice" alt="stats" />
 </div>
