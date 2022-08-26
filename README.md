@@ -24,7 +24,7 @@
   
 </div>
 
-## :computer: My Programming Skills 
+## :computer: Programming
 <div align="center">
   <img src="https://img.icons8.com/doodle/344/swift.png" height="70" width="70" alt="Swift logo" />
   <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="70" width="70" alt="Java logo" />
