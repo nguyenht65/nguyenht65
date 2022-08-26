@@ -16,7 +16,7 @@
   <img align="center" alt="Facebook" height="50" width="50" src="https://img.icons8.com/doodle/344/facebook-new.png" />
   </a>
   <a href="https://www.instagram.com/__htn.0605__/">
-  <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/officel/344/instagram-new.png" />
+  <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/doodle/344/instagram-new.png" />
   </a>
   <a href="https://www.topcv.vn/xem-cv/UFgKVgRXUg5UVwwHAAMFBFNbVwIDAFBWUgMDAg2e4e">
   <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-cv-recruitment-agency-flaticons-lineal-color-flat-icons-5.png" />
@@ -24,7 +24,7 @@
   
 </div>
 
-## :computer: Programming 
+## :computer: Programming Skills 
 <div align="center">
   <img src="https://img.icons8.com/doodle/344/swift.png" height="70" width="70" alt="Swift logo" />
   <img src="https://img.icons8.com/dusk/344/java-coffee-cup-logo.png" height="70" width="70" alt="Java logo" />
