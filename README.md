@@ -7,7 +7,7 @@
 - 🌱 Currently learning Software Engineering at FPT University
 - :iphone: Will be a mobile developer soon
 
-## :sassy_man: My Profiles
+## :sassy_man: Contact Me
 <div align="center">
   
   ![](https://visitor-badge.glitch.me/badge?page_id=nguyenht65.nguyenht65&right_color=red)
@@ -16,7 +16,7 @@
   <img align="center" alt="Facebook" height="50" width="50" src="https://img.icons8.com/doodle/344/facebook-new.png" />
   </a>
   <a href="https://www.instagram.com/__htn.0605__/">
-  <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/doodle/344/instagram-new.png" />
+  <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/officel/344/instagram-new.png" />
   </a>
   <a href="https://www.topcv.vn/xem-cv/UFgKVgRXUg5UVwwHAAMFBFNbVwIDAFBWUgMDAg2e4e">
   <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-cv-recruitment-agency-flaticons-lineal-color-flat-icons-5.png" />
@@ -33,7 +33,7 @@
    <img src="https://www.mobintouch.com/wp-content/uploads/2018/12/RxSwift.png" height="70" width="70" alt="RxSwift logo" />
 </div>
 
-## 📈 My Github Stats
+## 📈 Github Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenht65&show_icons=true&theme=apprentice" alt="stats" />
 </div>
