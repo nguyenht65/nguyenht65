@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/__htn.0605__/">
   <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/officel/344/instagram-new.png" />
   </a>
-  <a href="https://www.topcv.vn/xem-cv/UFgKVgRXUg5UVwwHAAMFBFNbVwIDAFBWUgMDAg2e4e">
+  <a href="https://static.topcv.vn/topcv-cv-uploads/e469926e02131c13d25f2f834b65a634.pdf#toolbar=0&navpanes=0&scrollbar=0">
   <img align="center" alt="Instagtam" height="50" width="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-cv-recruitment-agency-flaticons-lineal-color-flat-icons-5.png" />
   </a>
   
