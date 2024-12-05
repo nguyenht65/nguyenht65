@@ -4,8 +4,8 @@
 
 - :house: A Vietnamese developer
 - :leaves: Was a student at Ha Long High School for Gifted Students
-- 🌱 learnt Software Engineering at FPT University
-- :iphone: currenty being iOS developer at VNPAY
+- 🌱 Learnt Software Engineering at FPT University
+- :iphone: Currenty being iOS developer at VNPAY
 
 ## :sassy_man: My Profiles
 <div align="center">
